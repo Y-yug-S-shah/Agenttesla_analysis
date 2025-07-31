@@ -1,8 +1,6 @@
-### 📁 IOC/agenttesla-iocs.md
+## Host-Based Indicators of Compromise (IOCs)
 
-## 🔐 Host-Based Indicators of Compromise (IOCs)
-
-#### 🗂️ Dropped Files
+#### Dropped Files
 ```
 C:\Users\user\AppData\Roaming\NaPhkhYtQQh.exe
 C:\Users\user\AppData\Local\Temp\tmp2665.tmp
